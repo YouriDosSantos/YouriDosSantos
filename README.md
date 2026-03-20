@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youridossantos&label=Profile%20views&color=0e75b6&style=flat" alt="youridossantos" /> </p>
 
-- 🔭 I’m currently working on [Finance Hub](https://github.com/YouriDosSantos/finance-hub) and [Dos Santos Swim School](https://github.com/YouriDosSantos/swimming-lessons-website)
+- 🔭 I’m currently working on [Finance Hub Backend](https://github.com/YouriDosSantos/finance-hub) / [Finance Hub Frontend](https://github.com/YouriDosSantos/hub-frontend) and [Dos Santos Swim School](https://github.com/YouriDosSantos/swimming-lessons-website)
 
 - 🌱 I’m currently learning **Java, Spring Boot, DSA and System Design**
 
