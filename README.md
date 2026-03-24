@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YouriDosSantos](https://github.com/YouriDosSantos)
 
-- 📫 How to reach me **https://www.linkedin.com/in/youri-dos-santos/**
+- 📫 How to reach me **yourimoutinho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
