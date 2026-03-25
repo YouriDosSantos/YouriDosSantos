@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YouriDosSantos](https://github.com/YouriDosSantos)
 
-- 💼 Get to know more about me and resume available at [https://youridossantos.netlify.app/]
+- 💼 Get to know more about me and resume available at https://youridossantos.netlify.app/
 
 - 📫 How to reach me **yourimoutinho@gmail.com**
 
